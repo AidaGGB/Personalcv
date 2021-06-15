@@ -1,0 +1,100 @@
+.contenido{
+    max-width: 700px;
+    width: 100%;
+    margin: auto;
+}
+.experiencia{
+    max-width: 310px;
+    width: 100%;
+    min-height: 500px;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 50%;
+    background-color: #FAF2E1;
+    margin-top: 30px;
+    margin-left: 40px;
+    padding: 10px 10px 10px 30px;
+    font-size: 13px;
+    float: left;
+}
+
+.experiencia h2{
+    color: #D17845;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+    
+.experiencia i{
+    text-align: justify;
+    color: #D17845;
+    font-size: 10px;
+    margin-top: 5px;
+     
+}
+
+.experiencia p{
+    font-size: 10px;
+    line-height: 10px;
+}
+
+.datos{
+    padding-bottom: 5px;
+}
+
+.datos h5{
+    padding-bottom:3px;
+}
+
+.datos p{
+    padding-top: 5px;
+}
+
+.ruta2{
+    margin-top: 40px;
+    padding-bottom: 8px;
+    text-align: right;
+}
+
+.boton2{
+    font-size: 12px;
+    color: #D17845;
+    text-align: right;
+    
+}
+
+.experiencia2{
+    max-width: 310px;
+    width: 100%;
+    min-height: 500px;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 50%;
+    background-color: #FAF2E1;
+    margin-top: 30px;
+    margin-right: 20px;
+    padding: 10px 10px 10px 30px;
+    font-size: 12px;
+    float: right;
+}
+
+.experiencia2 h2{
+    color: #D17845;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+    
+.experiencia2 i{
+    text-align: justify;
+    color: #D17845;
+    font-size: 10px;
+    margin-top: 5px;
+     
+}
+
+.experiencia2 p{
+    font-size: 10px;
+    line-height: 10px;
+}
+
