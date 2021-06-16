@@ -110,9 +110,6 @@ progress[value] {
 progress::-moz-progress-bar { background: #262b68; }
 progress::-webkit-progress-value { background :#262b68; }
 
-.habilidades{
-    margin-bottom: 8px;
-}
 
 .habilidades h3{
     padding-bottom: 5px;
