@@ -107,6 +107,15 @@ function Bodycv () {
                         </div>
                     </div>
 
+                    <div  className="habilidades" >
+                        <h3>-----   PROYECTOS   -----</h3>
+                        <div className="git">
+                            <a href="https://github.com/AidaGGB"><i class="fab fa-github-square"></i></a>
+                            <p>Click me</p>
+                        </div>
+                    </div>
+
+
                     <div className="firma">
                         <h6>Aida Garzón</h6>
                         <p>Bogotá, Colombia</p>
