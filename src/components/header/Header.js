@@ -12,8 +12,10 @@ function Header() {
               <img src={foto} alt="foto"/>
               <div className="contacto">
                 <p><i class="fas fa-phone"></i>  +57 (1) 301 638 84 57</p>
-                <p><i class="fab fa-linkedin"></i>  www.linkedin.com/in/<br></br>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aida-garzon-9972989a/</p>
+                <div className="link">
+                  <a href="https://www.linkedin.com/in/aida-garzon-9972989a/" className="link"><i class="fab fa-linkedin"></i>  www.linkedin.com/in/<br></br>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aida-garzon-9972989a/</a>
+                </div>
                 <p><i class="fas fa-envelope"></i>   a.garzonbe@gmail.com</p>
               </div> 
           </div>
