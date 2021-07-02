@@ -14,7 +14,7 @@ import {
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path="/contenido"> 
             <Contenido/>
