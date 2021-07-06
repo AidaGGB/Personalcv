@@ -13,7 +13,7 @@ function Header() {
               <div className="contacto">
                 <p><i class="fas fa-phone"></i>  +57 (1) 301 638 84 57</p>
                 <div className="link">
-                  <a href="https://www.linkedin.com/in/aida-garzon-9972989a/" className="link"><i class="fab fa-linkedin"></i>  www.linkedin.com/in/<br></br>
+                  <a href="https://www.linkedin.com/in/aida-garzon-9972989a/" className="link" target="_blank"><i class="fab fa-linkedin"></i>  www.linkedin.com/in/<br></br>
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aida-garzon-9972989a/</a>
                 </div>
                 <p><i class="fas fa-envelope"></i>   a.garzonbe@gmail.com</p>

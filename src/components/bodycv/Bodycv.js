@@ -110,7 +110,7 @@ function Bodycv () {
                     <div  className="habilidades" >
                         <h3>-----   PROYECTOS   -----</h3>
                         <div className="git">
-                            <a href="https://github.com/AidaGGB"><i class="fab fa-github-square"></i></a>
+                            <a href="https://github.com/AidaGGB" target="_blank"><i class="fab fa-github-square"></i></a>
                             <p>Click me</p>
                         </div>
                     </div>
