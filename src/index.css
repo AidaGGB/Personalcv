@@ -10,8 +10,8 @@
 
 body{
   font-family: 'Montserrat', sans-serif;
-  color: #312D2D, 
-
+  color: #312D2D; 
+  
 }
 
 .container{
@@ -22,8 +22,8 @@ body{
   min-height: 1024px;
   height: 100%;
   background-image: url(./components/cvagarzon.jpg);
-  background-repeat: no-repeat;
-
+  background-size: cover;
+  background-position: center;
  
 }
 
@@ -46,7 +46,7 @@ p{
   #informacion{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+        
   }
   
 }

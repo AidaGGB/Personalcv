@@ -9,7 +9,7 @@ function Header() {
       <div>
         <header className="header">
           <div className="foto">
-              <img src={foto} alt="foto"/>
+              <img src={foto} alt="foto" className="img-fluid"/>
               <div className="contacto">
                 <p><i class="fas fa-phone"></i>  +57 (1) 301 638 84 57</p>
                 <div className="link">
