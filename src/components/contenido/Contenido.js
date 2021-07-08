@@ -76,8 +76,8 @@ function Contenido () {
                         </div>
                         <div className="ruta2">
                             <li type="none">
-                                <HashRouter basename="/home"/>
-                                <Link to="/home" className="boton2"><i class="fas fa-minus"></i>  Volver</Link>
+                                <HashRouter basename="/"/>
+                                <Link to="/" className="boton2"><i class="fas fa-minus"></i>  Volver</Link>
                             </li>
                         </div>
                     </ul>

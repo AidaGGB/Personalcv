@@ -19,10 +19,10 @@ function App() {
           <Route exact path="/contenido"> 
             <Contenido/>
           </Route>
-          <Route exact path="/home">
+          <Route exact path="/">
             <Bodycv/>
           </Route>
-          <Route exact path="/" render={()=> <Redirect to="/home"/>}>
+          <Route exact path="/" render={()=> <Redirect to="/"/>}>
           </Route>
         </Switch>
       </Router>
