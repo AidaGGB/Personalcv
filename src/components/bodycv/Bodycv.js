@@ -42,7 +42,8 @@ function Bodycv () {
                                 </li>
                             </div>
                             <div className="ruta">
-                                <li  type="none"><Link to="/contenido" className="boton"><i class="fas fa-plus"></i>Más Info</Link>
+                                <li  type="none">
+                                    <Link to="/contenido" className="boton"><i class="fas fa-plus"></i>Más Info</Link>
                                 </li>
                             </div>
                         </ul>

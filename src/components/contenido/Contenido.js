@@ -5,7 +5,8 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
+  Link,
+  HashRouter
 } from "react-router-dom";
 
 
@@ -74,7 +75,10 @@ function Contenido () {
                             </li>
                         </div>
                         <div className="ruta2">
-                            <li type="none"><Link to="/home" className="boton2"><i class="fas fa-minus"></i>  Volver</Link></li>
+                            <li type="none">
+                                <HashRouter basename="/home"/>
+                                <Link to="/home" className="boton2"><i class="fas fa-minus"></i>  Volver</Link>
+                            </li>
                         </div>
                     </ul>
                 </div>
